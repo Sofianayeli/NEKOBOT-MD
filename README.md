@@ -121,10 +121,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 - SE RECOMIENDA REESCANEAR EL CODIGO QR CADA 2 DIAS, PARA EVITAR PROBLEMAS O ERRORES
 ```
 ----
-
 ### 🌟 CREADORA 
- 
-[![https://img.freepik.com/vector-gratis/diseno-ilustracion-vector-personaje-estilo-anime-mujer-joven_18591-62216.jpg?w=2000) 
+ <p align="center">
+<img src="https://img.freepik.com/vector-gratis/diseno-ilustracion-vector-personaje-estilo-anime-mujer-joven_18591-62216.jpg?w=2000" alt="NEKOBOT-MD" width="900"/>
+</p> 
  
 ### 🌟 AGRADECIMIENTOS
  
