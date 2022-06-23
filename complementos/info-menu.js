@@ -84,32 +84,21 @@ let username = conn.getName(who)
 //user.registered = false
 
 let menu = `
-💗 *¡HOLA | HI!* ${username}
-╭━━〔 *${wm}* 〕━━⬣
-┃🌟🌟🌟🌟🌟🌟🌟🌟🌟
-┃✪ *EXPERIENCIA | EXP ➺ ${exp}*
-┃✪ *NIVEL | LEVEL ➺ ${level}*
-┃✪ *ROL ➺* ${role}
-┃✪ *NEKOCOINS ➺ $ ${money}*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃✪ *FECHA ➺ ${week}, ${date}*
-┃✪ *USUARIOS | USERS ➺ ${Object.keys(global.db.data.users).length}* 
-┃🌟🌟🌟🌟🌟🌟🌟🌟🌟
-╰━━━━━━〔 🔮 *${vs}* 〕━━━━━━⬣
+  💙*HOLA GUAP@ * ${username}
 
-╭━〔 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊𝙉 | 𝙄𝙉𝙁𝙊 𝙈𝙀𝙉𝙐 〕━⬣
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃💫➺ _${usedPrefix}cuentasnekobot | cuentasnb_
-┃💫➺ _${usedPrefix}gruposnb | grupos | groupnb_
-┃💫➺ _${usedPrefix}donar | donate_
-┃💫➺ _${usedPrefix}listagrupos | grouplist_
-┃💫➺ _${usedPrefix}estado | heyneko | status_
-┃💫➺ _${usedPrefix}infoneko | infobot_
-┃💫➺ _${usedPrefix}creadora | owner_
-┃💫➺ _${usedPrefix}velocidad | ping_
-┃💫➺ _Bot_ 
-╰━━━━━━━━━━━━━━━━━━━⬣`.trim()
-conn.sendHydrated(m.chat, menu, wm, pp, 'https://github.com/Sofiaperez18/NEKOBOT-MD.git', '𝗡𝗘𝗞𝗢𝗕𝗢𝗧-𝗠𝗗', null, null, [
+╔❮ 𝐼𝑁𝐹𝑂𝑅𝑀𝐴𝐶𝐼𝑂𝑁 / 𝐼𝑁𝐹 𝑀𝐸𝑁𝑈 ❯══♚
+║▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+║☞♡_${usedPrefix}cuentasnekobot | cuentasnb_
+║☞♡ _${usedPrefix}gruposnb | grupos | groupnb_
+║☞♡_${usedPrefix}donar | donate_
+║☞♡ _${usedPrefix}listagrupos | grouplist_
+║☞♡ _${usedPrefix}estado | heyneko | status_
+║☞♡ _${usedPrefix}infoneko | infobot_
+║☞♡ _${usedPrefix}creadora | owner_
+║☞♡ _${usedPrefix}velocidad | ping_
+║☞♡ _Bot_ 
+╚════════════════════♚'.trim()
+contacto _ sendHydrated ( m . chat , menu , wm , pp , 'https://github.com/Sofiaperez18/NEKOBOT-MD.git' , '𝗡𝗘𝗞𝗢𝗕𝗢𝗧-𝗠𝗗' , null , null m, [
 ['𝙈𝙚𝙣𝙪́ 𝙘𝙤𝙢𝙥𝙡𝙚𝙩𝙤 | 𝙁𝙪𝙡𝙡 𝙈𝙚𝙣𝙪 💫', '.allmenu'],
 ['𝙈𝙚𝙣𝙪 𝙙𝙚𝙨𝙥𝙡𝙚𝙜𝙖𝙗𝙡𝙚 | 𝙈𝙚𝙣𝙪 𝙇𝙞𝙨𝙩 🌟', '/menulista'],
 ['𝙈𝙚𝙣𝙪 𝙋𝙧𝙞𝙣𝙘𝙞𝙥𝙖𝙡 | 𝙈𝙖𝙞𝙣 𝙢𝙚𝙣𝙪 ⚡', '#menu']
