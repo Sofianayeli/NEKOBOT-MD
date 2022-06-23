@@ -1,4 +1,4 @@
-console.log('Iniciando | Starting 🚀🚀🚀')
+console.log('Iniciando✈️✈️✈️ | Starting ⚡⚡⚡')
 
 import { join, dirname } from 'path'
 import { createRequire } from "module";
@@ -16,7 +16,7 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('Neko\nBot\nMD', {
+say('Neko\nBot\nMD\nY\nERYKA', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
