@@ -124,7 +124,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ### 🌟 CREADORA 
  
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+[![https://img.freepik.com/vector-gratis/diseno-ilustracion-vector-personaje-estilo-anime-mujer-joven_18591-62216.jpg?w=2000) 
  
 ### 🌟 AGRADECIMIENTOS
  
