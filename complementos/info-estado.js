@@ -15,7 +15,7 @@ _muptime = await new Promise(resolve => { process.once('message', resolve)
 setTimeout(resolve, 1000) }) * 1000}
 let uptime = clockString(_uptime)
 let estado =`
-╭━━━━[ *𝙀𝙎𝙏𝘼𝘿𝙊 | 𝙎𝙏𝘼𝙏𝙐𝙎* ]━━━━━⬣
+╭━━━━[ *𝘌𝘚𝘛𝘈𝘋𝘖 | 𝘚𝘛𝘈𝘛𝘜𝘚* ]━━━━━⬣
 ┃❤️ ¡Hola amor 💙|❤️ Hi love! 💙${name}
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🔮 Versión de ${gt}
