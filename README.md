@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/WwxBm8o.jpg" alt="NEKOBOT-MD" width="900"/>
+<img src="https://w0.peakpx.com/wallpaper/197/271/HD-wallpaper-beautiful-anime-girl-girl-beautiful-anime-blonde.jpg" alt="NEKOBOT-MD" width="900"/>
 </p>
 
 <p align="center">
