@@ -122,7 +122,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 ----
 ### 🌟 CREADORA 
- <p align="center">
+ <marquee behavior="scroll" direction="right">
+  <p align="center">
 <img src="https://img.freepik.com/vector-gratis/diseno-ilustracion-vector-personaje-estilo-anime-mujer-joven_18591-62216.jpg?w=2000" alt="NEKOBOT-MD" width="100"/>
 </p> 
  
