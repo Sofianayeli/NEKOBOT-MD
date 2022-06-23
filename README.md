@@ -34,10 +34,10 @@
 </p>
   
 [![blog](https://img.shields.io/badge/Grupo-NEKOBOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/Hahc7UwSouH9jIDStkT5QW)  <a href="https://chat.whatsapp.com/JFWw8YQJ5udBeSVa9Sv8us"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+)](https://chat.whatsapp.com/JFWw8YQJ5udBeSVa9Sv8us)  <a href="https://chat.whatsapp.com/JFWw8YQJ5udBeSVa9Sv8us"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 
 [![blog](https://img.shields.io/badge/Grupo2-NEKOBOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/JFTOYLdpiTBCluFJvikBxN) <a href="https://chat.whatsapp.com/FH4Qa0TqwFOGrMpNp0nTNh"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+)](https://chat.whatsapp.com/FH4Qa0TqwFOGrMpNp0nTNh) <a href="https://chat.whatsapp.com/FH4Qa0TqwFOGrMpNp0nTNh"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 -----
 ### 💖 ```DONAR``` [`Aquí`](https://paypal.me/OficialGD)
 ### 🟣 ACTIVAR EN HEROKU 
