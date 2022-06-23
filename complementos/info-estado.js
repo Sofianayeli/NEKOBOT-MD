@@ -16,20 +16,20 @@ setTimeout(resolve, 1000) }) * 1000}
 let uptime = clockString(_uptime)
 let estado =`
 ╭━━━━[ *𝙀𝙎𝙏𝘼𝘿𝙊 | 𝙎𝙏𝘼𝙏𝙐𝙎* ]━━━━━⬣
-┃❤️ ¡Hola amor | Hi amor! ${name}
+┃❤️ ¡Hola amor 💙|❤️ Hi love! 💙${name}
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃😌 Versión de ${gt}
+┃🔮 Versión de ${gt}
 ┃➥ ${vs}
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃ꨄ︎ ${global.opts['self'] ? '𝙋𝙍𝙄𝙑𝘼𝘿𝙊 - 𝙋𝙍𝙄𝙑𝘼𝙏𝙀' : '𝙋𝙐𝘽𝙇𝙄𝘾𝙊 - 𝙋𝙐𝘽𝙇𝙄𝘾'}
+┃⚡ ${global.opts['self'] ? '𝙋𝙍𝙄𝙑𝘼𝘿𝙊 - 𝙋𝙍𝙄𝙑𝘼𝙏𝙀' : '𝙋𝙐𝘽𝙇𝙄𝘾𝙊 - 𝙋𝙐𝘽𝙇𝙄𝘾'}
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃ꨄ︎ Activo Durante | Active During 
+┃✅ Activo Durante |✅ Active During 
 ┃➥ ${uptime}
-┃ꨄ︎ Usuario(s) | Users 
+┃👤 Usuario(s) | Users 
 ┃➥ ${Object.keys(global.db.data.users).length} 
-┃ꨄ︎ Chat(s) Prohibido(s) | Forbidden Chats
+┃📲 Chat(s) Prohibido(s) | Forbidden Chats
 ┃➥ ${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length} 
-┃ꨄ︎ Usuario(s) Prohibido(s) | Prohibited Urs
+┃👤🚫 Usuario(s) Prohibido(s) | Prohibited Urs
 ┃➥ ${Object.entries(global.db.data.users).filter(user => user[1].banned).length} 
 ╰━━━━━━━━━━━━━━━━━━⬣`.trim()
 
