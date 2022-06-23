@@ -72,7 +72,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install imagemagick -y
 > pkg install yarn
 > git clone https://github.com/Sofianayeli/NEKOBOT-MD
-> cd GataBot-MD
+> cd NEKOBOT-MD
 > npm install
 > yarn install 
 > npm install
@@ -90,7 +90,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd GataBot-MD
+> cd NEKOBOT-MD
 > npm start
 ```
 ----
@@ -99,7 +99,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd GataBot-MD
+> cd NEKOBOT-MD
 > rm -rf session.data.json
 > npm start
 ```
