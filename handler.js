@@ -645,8 +645,8 @@ export async function participantsUpdate({ id, participants, action }) {
                             (chat.sBye || this.bye || conn.bye || 'Bye, @user!')).replace('@user', '@' + user.split('@')[0])
                             let apii = await this.getFile(pp)
                             this.sendHydrated(id, text, groupMetadata.subject, apii.data,                                                       'https://github.com/GataNina-Li/GataBot-MD', '𝗡𝗘𝗞𝗢𝗕𝗢𝗧-𝗠𝗗', null, null, [
-                            [(action == 'add' ? '𝙎𝙚 𝙪𝙣𝙞𝙤 🥳 | 𝙃𝙞!!' : '𝙎𝙚 𝙛𝙪𝙚 𝙪𝙣 𝙍𝙖𝙣𝙙𝙤𝙢 🧐 | 𝘽𝙮𝙚'), '.s'],    
-                            ['💖 𝙄𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪 | 𝙂𝙤 𝙈𝙚𝙣𝙪', '/menu']
+                            [(action == 'add' ? '𝘚𝘦 𝘶𝘯𝘪𝘰 😎 | 𝘏𝘐!!' : '𝘚𝘦 𝘧𝘶𝘦 𝘶𝘯 𝘧𝘢𝘯 𝘥𝘦 𝘉𝘵𝘴 🏳️‍🌈 | 𝘉𝘺𝘦 𝘎𝘢𝘺'), '.s'],    
+                            ['📲 𝘐𝘳 𝘢𝘭 𝘔𝘦𝘯𝘶 | 𝘎𝘰 𝘔𝘦𝘯𝘶', '/menu']
                             ], '', { mentions: [user]})
                            }
                 }
@@ -701,13 +701,13 @@ export async function deleteUpdate(message) {
         if (chat.delete)
             return
         await this.reply(msg.chat, `
-━━━━⬣  𝘼𝙉𝙏𝙄 𝘿𝙀𝙇𝙀𝙏𝙀  ⬣━━━━
+━━━━⬣  𝘈𝘕𝘛𝘐 𝘋𝘌𝘓𝘌𝘛𝘌  ⬣━━━━
 *■ Nombre:* @${participant.split`@`[0]}
 *■ Enviando el mensaje..*
 *■ Para desactivar esta función escriba el comando:*
 *—◉ #disable antidelete*
 *—◉ #enable delete*
-━━━━⬣  𝘼𝙉𝙏𝙄 𝘿𝙀𝙇𝙀𝙏𝙀  ⬣━━━━
+━━━━⬣  𝘈𝘕𝘛𝘐 𝘋𝘌𝘓𝘌𝘛𝘌  ⬣━━━━
 `.trim(), msg, {
             mentions: [participant]
         })
