@@ -39,7 +39,7 @@ conn.sendHydrated(m.chat, estado, wm, picture, 'https://github.com/Sofiaperez18/
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪', '#menu']
 ], m,)}
 
-/*conn.sendHydrated(m.chat, estado, wm, picture, 'https://github.com/Sofiaperez18/NEKOBOT-MD.git', '𝗡𝗘𝗞𝗢𝗕𝗢𝗧-𝗠𝗗', null, null, [
+/*conn.sendHydrated(m.chat, estado, wm, picture, 'https://github.com/Sofiaperez18/NEKOBOT-MD.git', '𝘯𝘢𝘬𝘢𝘯𝘰𝘯𝘪𝘯𝘰𝘉𝘰𝘵-𝘔𝘋', null, null, [
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪', '#menu']
 ], m)}*/
 
